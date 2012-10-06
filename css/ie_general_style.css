@@ -1,0 +1,5 @@
+/*Overriding some default CSS styles for Internet Explorer*/
+
+.wa_reading_tags {
+	filter: none !important
+}

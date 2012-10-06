@@ -1,0 +1,22 @@
+/*Overriding some default CSS styles for Internet Explorer*/
+
+/*The font size on IE8 looks too small! Let's increase it!*/
+/*.wa_posts_desc,.wa_posts_info,.wa_posts_title {
+	font-size: 11pt !important;
+}*/
+
+/*Give the social section a border because there is no inner shadow*/
+#wa_social_area {
+	border: 1px solid #00406C !important;
+}
+
+/*As the overflow is off on newer browsers, turn it on as the custom scroll bar is disabled for IE8 and below*/
+aside,article {
+	overflow: scroll !important;
+}
+
+/*Need the border as the drop shadow will not run in IE8 and lower*/
+#wa_reading_top_bar_shade {
+	background-color: #CACACA !important;
+	height: 1px !important;
+}
