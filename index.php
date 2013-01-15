@@ -11,7 +11,7 @@
  | |_| |  __/ |_ \ V  V / (_) | | | (_| |/ ___ \| |_) | |_) | (_| (_) | | | | | |
   \____|\___|\__| \_/\_/ \___/|_|  \__,_/_/   \_\ .__/| .__(_)___\___/|_| |_| |_|
                                                 |_|   |_|                                                            
-- Handcrafted & Engineered by Taylor Jasko (@tjasko), Marc Billow (@mbillow), and Jeffrey Low (@jefflow72)
+- Handcrafted & Engineered by Taylor Jasko (taylorjasko.com), Marc Billow (marcbillow.com), and Jeffrey Low (@jefflow72)
 -->
 
 </JasobNoObfs>
